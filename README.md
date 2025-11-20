@@ -64,21 +64,16 @@ To set APP Key
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e82a135b-84d6-4689-96a4-ad50de29d0eb" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/add57c67-54cf-482d-843f-934a9b763a9e" />
 
+AT COMMANDS:
+
+<img width="838" height="447" alt="image" src="https://github.com/user-attachments/assets/e0e87832-8915-42d2-9c47-18120fa098e4" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-17 141659" src="https://github.com/user-attachments/assets/fe32484e-b449-4d11-8415-ba1826abb165" />
-
 <img width="1920" height="1080" alt="Screenshot 2025-11-17 141725" src="https://github.com/user-attachments/assets/c4cc336f-460e-46dc-81dd-cd86a698d5ad" />
-
 <img width="1920" height="1080" alt="Screenshot 2025-11-17 141745" src="https://github.com/user-attachments/assets/e728c8f3-f1b0-4a93-91b9-74fe5b719b43" />
-
 <img width="1920" height="1080" alt="Screenshot 2025-11-17 141807" src="https://github.com/user-attachments/assets/b308253a-407f-47a0-9174-ef8b36c3131b" />
-
 <img width="1920" height="1080" alt="Screenshot 2025-11-17 141840" src="https://github.com/user-attachments/assets/5a8ae347-e13e-42a0-aae3-26ea612aa859" />
-
 <img width="1920" height="1080" alt="Screenshot 2025-11-17 141900" src="https://github.com/user-attachments/assets/6c73630d-b887-416f-a0ae-6a26d46bab55" />
-
 <img width="1920" height="1080" alt="Screenshot 2025-11-17 141920" src="https://github.com/user-attachments/assets/b2984900-82bf-4f35-bda1-7c5a7c574c28" />
-
-
 <img width="1920" height="1080" alt="Screenshot 2025-11-17 141948" src="https://github.com/user-attachments/assets/e4159c27-02cc-418d-b914-5252e1a777ef" />
 
 
